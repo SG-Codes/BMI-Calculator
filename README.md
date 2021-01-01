@@ -5,3 +5,5 @@
 ### Technologies Used
 - HTML/CSS
 - JavaScript
+
+### [Live Demo](https://webd-with-sg.github.io/BMI-Calculator/)
